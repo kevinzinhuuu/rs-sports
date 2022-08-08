@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+}
+header{
+    padding: 35px;
+    background-color: blue;
+    text-align: center;
+    background-image: url(brazino.jfif);
+    background-size: contain;
+    margin: auto;
+}
+body{
+    background-color: darkgreen;
+}
+    h1, p{
+        color: white;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-align: center;
+}
+
+h3{
+    color: white;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ nav, a{
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
+ background-color:white;
+ color: black;
+ text-decoration: none;
+ text-align: center;
+}
+a:hover{
+   color:rgb(35, 146, 31);
+}
+.container{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    align-items: center;
+    height: 100vh;
+}
+.iimgcont{
+    width: 80%;
+    margin-left: 20px;
+}
+
+    
+
+
+
